@@ -2,4 +2,7 @@
 layout: default
 title: Steve test website
 ---
-Not much to see here.
+<div class="blurb">
+	<p>Not much to see here.
+</p>
+</div><!-- /.blurb -->
